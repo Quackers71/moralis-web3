@@ -8,7 +8,7 @@ https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw/videos
 
 # Notes and Links:
 
-https://www.trufflesuite.com/ganache
+https://www.trufflesuite.com/ganache  
 https://www.trufflesuite.com/truffle
 https://moralis.io/ - still in Beta
 
