@@ -21,7 +21,7 @@ https://github.com/MoralisWeb3/demo-apps/blob/main/casino-dapp/README.md
 
 ## Web3.js - Javascript Library used to interact with Smart Contracts
 https://web3js.readthedocs.io/en/v1.3.4/
-https://github.com/ethereum/wiki/wiki/JSON-RPC moved to https://eth.wiki/json-rpc/API (which I'd found already...)
+https://github.com/ethereum/wiki/wiki/JSON-RPC moved to  https://eth.wiki/json-rpc/API (which I'd found already...)  
 https://github.com/ethereum
 
 
