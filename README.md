@@ -6,7 +6,7 @@ Moralis Web3
 taken from Ivan on Tech - Moralis Web3 YT channel
 https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw/videos
 
-# Notes and Links:
+## Notes and Links:
 
 https://www.trufflesuite.com/ganache  
 https://www.trufflesuite.com/truffle
@@ -23,6 +23,6 @@ https://github.com/MoralisWeb3/demo-apps/blob/main/casino-dapp/README.md
 https://web3js.readthedocs.io/en/v1.3.4/
 https://github.com/ethereum/wiki/wiki/JSON-RPC moved to  https://eth.wiki/json-rpc/API (which I'd found already...)  
 https://github.com/ethereum  
-
-
+  
+  
 https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw/videos
